@@ -1,0 +1,6 @@
+[submodule "harvest"]
+	path = harvest
+	url = git@github.com:bwitzel/Harvest.git
+[submodule "piglow"]
+	path = piglow
+	url = git@github.com:Boeeerb/PiGlow.git
